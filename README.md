@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
-<p align="center">🌟 Mahasiswa IT | Web Developer | Game Dev Enthusiast | Linux User 🌟</p>
+<p align="center">🌟 Mahasiswa IT | Web Developer | Backend Devloper | Linux User 🌟</p>
 
 ---
 
@@ -12,8 +12,8 @@
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 
 - 🎓 Saya sedang menempuh studi di bidang **Teknologi Informasi**
-- 💻 Saya suka membuat **website**, **game**, dan aplikasi **otomasi**
-- 🌱 Saat ini sedang mendalami **Flask**, **Django**, **Android Kotlin**, dan **FFmpeg**
+- 💻 Saya suka membuat **website**, **Backend**, dan user **linux**
+- 🌱 Saat ini sedang mendalami **Flask**, **Django**, dan **Frontend**
 
 ---
 
@@ -46,9 +46,8 @@
 ## 🌍 Hubungi Saya
 
 <p align="left">
-  📫 Email: <strong>maulanaichsan@gmail.com</strong><br>
-  💼 LinkedIn: [linkedin.com/in/maulanaichsan](https://linkedin.com/in/maulanaichsan) <br>
-  🌐 Website: [maulanaichsan.dev](https://maulanaichsan.dev)
+  📫 Email: <strong>moelsanid@gmail.com</strong><br>
+  🌐 Website: [maulanaichsan.dev](https://maulanaihsan.netlify.app)
 </p>
 
 ---
